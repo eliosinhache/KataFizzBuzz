@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Elio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Elio\\.nuget\\packages"
+    ]
+  }
+}
